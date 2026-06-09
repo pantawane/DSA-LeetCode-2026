@@ -1,25 +1,15 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        vector<pair<int, int>> A;
-        for (int i = 0; i< nums.size(); i++){
-            A.push_back({nums[i], i});
-        }
+        int n = nums.size();
+        unordered_map<int, int> prevMap;
 
-        sort(A.begin(), A.end());
-
-        int i = 0; int j = nums.size()-1;
-        while(i < j){
-            int curr = A[i].first + A[j].first;
-            if(curr == target){
-                return {min(A[i].second, A[j].second), max(A[i].second, A[j].second)};
+        for (int i = 0; i< n; i++){
+            int diff = target - nums[i];
+            if (prevMap.find(diff) != prevMap.end()){
+                return {prevMap[diff], i};
             }
-            else if(curr < target){
-                i++;
-            }
-            else{
-                j--;
-            }
+            prevMap.insert({nums[i], i});
         }
         return {};
     }
