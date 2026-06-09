@@ -4,10 +4,10 @@ public:
     int solve(vector<int>& cost, int n){
 
         //step 1
-        vector<int> dp(n+1);
+        //vector<int> dp(n+1);
         // step -2 base case
-        dp[0] = cost[0];
-        dp[1] = cost[1];
+        int prev2 = cost[0];
+        int prev1 = cost[1];
 
         // step 3
         // if(dp[n] != -1)
@@ -16,9 +16,12 @@ public:
         //step 3
 
         for(int i = 2; i < n ; i++){
-            dp[i] = cost[i] +  min(dp[i-1], dp[i-2]);
+            int curr = cost[i] + min(prev1, prev2);
+            prev2 = prev1;
+            prev1 = curr;
+            //dp[i] = cost[i] +  min(dp[i-1], dp[i-2]);
         }
-           return min(dp[n-1], dp[n-2]);
+           return min(prev1, prev2);
     }
 
     int minCostClimbingStairs(vector<int>& cost) {
