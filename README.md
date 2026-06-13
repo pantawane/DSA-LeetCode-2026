@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0704-binary-search) |
@@ -96,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0206-reverse-linked-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
