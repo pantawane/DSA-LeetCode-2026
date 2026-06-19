@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0242-valid-anagram) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0155-min-stack) |
 | [0981-time-based-key-value-store](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0981-time-based-key-value-store) |
 ## Queue
@@ -212,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0287-find-the-duplicate-number) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
