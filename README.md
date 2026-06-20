@@ -221,4 +221,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0146-lru-cache) |
+## Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Depth-First Search
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
