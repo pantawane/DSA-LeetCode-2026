@@ -18,8 +18,8 @@ public:
             pair<bool, int> p = make_pair(true, 0);
             return p;
         }
-        pair<int, int> left = isBalancedEachNode(root->left);
-        pair<int, int> right = isBalancedEachNode(root->right);
+        pair<bool, int> left = isBalancedEachNode(root->left);
+        pair<bool, int> right = isBalancedEachNode(root->right);
 
         bool leftAns = left.first;
         bool rightAns = right.first;
