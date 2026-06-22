@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0322-coin-change) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0543-diameter-of-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0543-diameter-of-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -281,4 +284,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0543-diameter-of-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/1448-count-good-nodes-in-binary-tree) |
 <!---LeetCode Topics End-->
