@@ -1,0 +1,75 @@
+#include<iostream>
+#include<unordered_map>
+#include<queue>
+#include<list>  
+using namespace std;
+
+void prepareAdjList(unordered_map<int, list<int>> &adj, vector<pair<int, int>> &edges){
+   for (int i = 0; i < edges.size(); i++)
+   {
+    int u = edges[i].first;
+    int v = edges[i].second;
+
+    adj[u].push_back(v);
+    adj[v].push_back(u);
+   }
+}
+
+void printAdjList(unordered_map<int, list<int>> &adj){
+    for(auto i: adj){
+        cout << i.first << "->";
+        for(auto j: i.second){
+            cout << j << ", ";
+        }
+    }
+}
+
+void bfs(unordered_map<int, list<int>> &adj, unordered_map<int, bool> &visited, vector<int> ans, int node){
+    queue<int> q;
+    q.push(node);
+    visited[node] = 1;
+
+    while(!q.empty()){
+        int frontNode = q.front();
+        q.pop();
+
+        //store frontNOde in ans
+        ans.push_back(frontNode);
+
+        //push all neighbour of front node in a queue
+        for(auto i: adj[frontNode]){
+            if(!visited[i]){
+                q.push(i);
+                visited[i]= 1;
+            }
+        }
+    }
+}
+
+
+vector<int> bfsTraversal(int n, vector<pair<int, int>> edges){
+    //create adjacency list
+    unordered_map<int, list<int>> adj;
+    //answer store
+    vector<int> ans;
+    //create visited list
+    unordered_map<int, bool> visited;
+
+    prepareAdjList(adj, edges);
+
+    for(int i = 0; i< n; i++){
+        if(!visited[i]){
+            bfs(adj, visited, ans, i);
+        }
+    }
+
+    return ans;
+    
+}
+
+int main(){
+
+    
+
+    return 0;
+}
