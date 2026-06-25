@@ -42,7 +42,7 @@ public:
         }
 
         //Pacific -> left col
-        for(int i=0; i< n; i++){
+        for(int i=1; i< n; i++){
             pacific[i][0] = 1;
             pq.push({i,0});
         }
