@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0746-min-cost-climbing-stairs) |
 | [0853-car-fleet](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0875-koko-eating-bananas) |
+| [0994-rotting-oranges](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0994-rotting-oranges) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Hash Table
 |  |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
