@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0127-word-ladder](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0199-binary-tree-right-side-view) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0127-word-ladder](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0141-linked-list-cycle) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0424-longest-repeating-character-replacement) |
