@@ -35,7 +35,7 @@ public:
         }
         return dp[i][j] = ans;
     }
-
+//tabulation
     int solveTab(string &a, string &b, int i, int j){
 
         vector<vector<int>> dp(a.length()+1, vector<int> (b.length()+1, 0));
@@ -54,10 +54,33 @@ public:
         return dp[0][0];
     }
 
+    //space optimization
+
+    int solveSpaOpt(string &a, string &b, int i, int j){
+
+        vector<int> curr(b.length()+1, 0);
+        vector<int> next(b.length()+1, 0);
+
+        for(int i=a.length()-1; i>=0; i--){
+            for(int j= b.length()-1; j>=0; j--){
+            int ans = 0;
+            if(a[i] == b[j]){
+            ans = 1 + next[j+1];
+            }else{
+            ans = max(next[j], curr[j+1]);
+        }
+            curr[j] = ans;
+            }
+            next = curr;
+        }
+        return next[0];
+    }
+
     int longestCommonSubsequence(string text1, string text2) {
         //return solve(text1, text2, 0, 0);
         vector<vector<int>> dp(text1.length(), vector<int> (text2.length(), -1));
         // return solveMem(text1, text2, 0, 0, dp);
-        return solveTab(text1, text2, 0, 0);
+        // return solveTab(text1, text2, 0, 0);
+        return solveSpaOpt(text1, text2, 0, 0);
     }
 };
