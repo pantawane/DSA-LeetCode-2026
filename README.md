@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0347-top-k-frequent-elements) |
+| [0354-russian-doll-envelopes](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0354-russian-doll-envelopes) |
 | [0377-combination-sum-iv](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0377-combination-sum-iv) |
 | [0417-pacific-atlantic-water-flow](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0695-max-area-of-island) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0322-coin-change) |
+| [0354-russian-doll-envelopes](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0354-russian-doll-envelopes) |
 | [0377-combination-sum-iv](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0377-combination-sum-iv) |
 | [0746-min-cost-climbing-stairs](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0347-top-k-frequent-elements) |
+| [0354-russian-doll-envelopes](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0354-russian-doll-envelopes) |
 | [0853-car-fleet](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0853-car-fleet) |
 ## Sliding Window
 |  |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0300-longest-increasing-subsequence) |
+| [0354-russian-doll-envelopes](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0354-russian-doll-envelopes) |
 | [0704-binary-search](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0981-time-based-key-value-store) |
