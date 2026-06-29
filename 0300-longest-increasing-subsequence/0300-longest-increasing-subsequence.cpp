@@ -38,7 +38,7 @@ public:
         vector<vector<int>> dp(n + 1, vector<int> (n+1, 0));
 
        for(curr = n-1; curr >=0; curr--){
-        for(prev = n-1; prev >= -1; prev--){
+        for(prev = curr-1; prev >= -1; prev--){
             int include = 0;
     
             if(prev == -1 || nums[curr] > nums[prev])
@@ -52,11 +52,36 @@ public:
        return dp[0][0];
     }
 
+    //space optimization
+    int solveSpaceOpt(int n, vector<int>& nums, int curr, int prev){
+
+        vector<vector<int>> dp(n + 1, vector<int> (n+1, 0));
+
+        vector<int> nextRow(n+1, 0);   
+        vector<int> currRow(n+1, 0);   
+
+       for(curr = n-1; curr >=0; curr--){
+        for(prev = n-1; prev >= -1; prev--){
+            int include = 0;
+    
+            if(prev == -1 || nums[curr] > nums[prev])
+            include = 1 + nextRow[curr + 1];
+
+            int exclude = 0 + nextRow[prev + 1];
+
+           currRow[prev + 1] = max(include, exclude);
+        }
+        nextRow = currRow;
+       }
+       return nextRow[0];
+    }
+
     int lengthOfLIS(vector<int>& nums) {
         int n = nums.size();
         //return solve(n, nums, 0, -1);
         // vector<vector<int>> dp(n, vector<int> (n+1, -1));
         // return solveMem(n, nums, 0, -1, dp);
-        return solveTab(n, nums, 0, -1);
+        // return solveTab(n, nums, 0, -1);
+        return solveSpaceOpt(n, nums, 0, -1);
     }
 };
