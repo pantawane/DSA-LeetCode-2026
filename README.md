@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0347-top-k-frequent-elements) |
+| [0377-combination-sum-iv](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0377-combination-sum-iv) |
 | [0417-pacific-atlantic-water-flow](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0704-binary-search) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0322-coin-change) |
+| [0377-combination-sum-iv](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0377-combination-sum-iv) |
 | [0746-min-cost-climbing-stairs](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Breadth-First Search
