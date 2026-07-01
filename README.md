@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0130-surrounded-regions) |
+| [0139-word-break](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0213-house-robber-ii) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0217-contains-duplicate) |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0424-longest-repeating-character-replacement) |
@@ -400,4 +404,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/1584-min-cost-to-connect-all-points) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
