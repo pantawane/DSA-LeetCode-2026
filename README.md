@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0072-edit-distance) |
+| [0115-distinct-subsequences](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0198-house-robber) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0076-minimum-window-substring) |
+| [0115-distinct-subsequences](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0242-valid-anagram) |
