@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0044-wildcard-matching) |
+| [0062-unique-paths](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Merge Sort
 |  |
@@ -414,4 +416,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0139-word-break) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
