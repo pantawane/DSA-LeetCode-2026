@@ -1,8 +1,9 @@
 class Solution {
 public:
+// same as longrst palindromic substring
     int count = 0;
     void expand(string &s, int left, int right){
-        
+
          while(left >=0 && right < s.length() && s[left] == s[right]){
             count++;
             left--;
