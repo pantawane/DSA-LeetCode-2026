@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0044-wildcard-matching) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0044-wildcard-matching) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0042-trapping-rain-water) |
