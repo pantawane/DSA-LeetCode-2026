@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0049-group-anagrams) |
+| [0063-unique-paths-ii](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0036-valid-sudoku) |
+| [0063-unique-paths-ii](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0200-number-of-islands) |
