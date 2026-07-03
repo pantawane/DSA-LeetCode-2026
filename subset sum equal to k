@@ -1,0 +1,23 @@
+#include <bits/stdc++.h> 
+
+bool solve(int n, int k, vector<int> &arr, int index, vector<vector<int>> &dp){
+    //base case
+    if(k == 0)
+    return true;
+    if(index == n)
+    return false;
+    if(k < 0)
+    return false;
+
+   if( dp[index][k] != -1)
+    return dp[index][k];
+
+    bool include =  solve(n, k-arr[index], arr, index+1, dp);
+    bool exclude =  solve(n, k, arr, index+1, dp);
+
+    return dp[index][k] = include || exclude;
+}
+bool subsetSumToK(int n, int k, vector<int> &arr) {
+    vector<vector<int>> dp(n, vector<int> (k+1, -1));
+    return solve(n, k, arr, 0, dp);
+}
