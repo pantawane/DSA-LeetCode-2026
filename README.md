@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0084-largest-rectangle-in-histogram) |
+| [0090-subsets-ii](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0120-triangle](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0287-find-the-duplicate-number) |
 ## Doubly-Linked List
 |  |
@@ -466,5 +468,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
