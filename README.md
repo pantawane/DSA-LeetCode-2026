@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0074-search-a-2d-matrix) |
@@ -460,5 +461,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0051-n-queens) |
 | [0494-target-sum](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
