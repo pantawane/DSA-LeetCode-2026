@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -473,5 +475,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
