@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0115-distinct-subsequences) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -374,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -479,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0494-target-sum) |
