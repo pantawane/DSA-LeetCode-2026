@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0213-house-robber-ii) |
+| [0215-kth-largest-element-in-an-array](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0238-product-of-array-except-self) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0049-group-anagrams) |
+| [0215-kth-largest-element-in-an-array](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0347-top-k-frequent-elements) |
@@ -206,11 +208,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0215-kth-largest-element-in-an-array](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0023-merge-k-sorted-lists) |
+| [0215-kth-largest-element-in-an-array](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0347-top-k-frequent-elements) |
 | [0743-network-delay-time](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0743-network-delay-time) |
@@ -226,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quickselect
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
