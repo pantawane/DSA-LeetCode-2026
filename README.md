@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0981-time-based-key-value-store) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0206-reverse-linked-list) |
+| [0355-design-twitter](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0355-design-twitter) |
 ## Recursion
 |  |
 | ------- |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0355-design-twitter](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0981-time-based-key-value-store](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0981-time-based-key-value-store) |
 ## Queue
