@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0417-pacific-atlantic-water-flow) |
+| [0455-assign-cookies](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0518-coin-change-ii) |
 | [0621-task-scheduler](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0621-task-scheduler) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0354-russian-doll-envelopes) |
+| [0455-assign-cookies](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0621-task-scheduler) |
 | [0853-car-fleet](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0973-k-closest-points-to-origin) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0295-find-median-from-data-stream) |
+| [0455-assign-cookies](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0647-palindromic-substrings) |
 ## Binary Search
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0455-assign-cookies](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0621-task-scheduler) |
 ## Stack
 |  |
