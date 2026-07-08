@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0746-min-cost-climbing-stairs) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0853-car-fleet](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0853-car-fleet) |
+| [0860-lemonade-change](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0994-rotting-oranges) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0621-task-scheduler) |
+| [0860-lemonade-change](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0860-lemonade-change) |
 ## Stack
 |  |
 | ------- |
