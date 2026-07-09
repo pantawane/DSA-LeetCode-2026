@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0417-pacific-atlantic-water-flow) |
+| [0435-non-overlapping-intervals](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0518-coin-change-ii) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0354-russian-doll-envelopes) |
 | [0377-combination-sum-iv](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0518-coin-change-ii) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0354-russian-doll-envelopes) |
+| [0435-non-overlapping-intervals](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0621-task-scheduler) |
 | [0853-car-fleet](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0853-car-fleet) |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0135-candy) |
+| [0435-non-overlapping-intervals](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0678-valid-parenthesis-string) |
