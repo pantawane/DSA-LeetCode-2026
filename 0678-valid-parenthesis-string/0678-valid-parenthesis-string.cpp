@@ -1,32 +1,23 @@
 class Solution {
 public:
-    bool solve(string &s, int index, int cnt, vector<vector<int>> &dp){
-        int n = s.size();
-        //base case
-        if(cnt < 0) return false;
-        if(index == n){
-            if(cnt == 0){
-                return true;
-            }
-            return false;
-        }
-
-        if(dp[index][cnt] != -1)
-        return dp[index][cnt];
-
-        if(s[index] == '('){
-            return dp[index][cnt] = solve(s, index+1, cnt+1, dp);
-        }else if(s[index] == ')'){
-            return dp[index][cnt] = solve(s, index+1, cnt-1, dp);
-        }else{
-            return dp[index][cnt] = solve(s, index+1, cnt+1, dp)||
-                   solve(s, index+1, cnt-1, dp)||
-                   solve(s, index+1, cnt, dp);
-        }
-    }
     bool checkValidString(string s) {
         int n = s.size();
-        vector<vector<int>> dp(n, vector<int> (n+1, -1));
-        return solve(s, 0, 0, dp);
+        int min = 0;
+        int max = 0;
+        for(int i=0; i<n; i++){
+            if(s[i] == '('){
+                min = min + 1;
+                max = max + 1;
+            }else if(s[i] == ')'){
+                min = min - 1;
+                max = max - 1;
+            }else{
+                min = min - 1;
+                max = max + 1;
+            }
+            if(min < 0)  min = 0;
+            if(max < 0) return false;
+        }
+        return min == 0;
     }
 };
