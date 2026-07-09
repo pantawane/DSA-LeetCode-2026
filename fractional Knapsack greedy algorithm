@@ -1,0 +1,41 @@
+struct Item {
+    int val;
+    int wt;
+};
+
+bool comparator(Item a, Item b){
+    return (double)a.val / a.wt > (double)b.val / b.wt;
+}
+
+class Solution {
+  public:
+    double fractionalKnapsack(vector<int>& val, vector<int>& wt, int capacity) {
+        
+        int n = val.size();
+        vector<Item> arr(n);
+        
+        //fill the empty array
+        for(int i =0; i< n ; i++){
+            arr[i].val = val[i];
+            arr[i].wt = wt[i];
+        }
+        
+        
+        sort(arr.begin(), arr.end(), comparator);
+        
+        double totalVal = 0;
+        
+        for(int i=0; i<n; i++){
+            if(arr[i].wt <= capacity){
+                totalVal += arr[i].val;
+                capacity -= arr[i].wt;
+                
+            }else{
+                totalVal += ((double)arr[i].val/arr[i].wt)* capacity;
+                break;
+            }
+        }
+        
+        return totalVal;
+    }
+};
