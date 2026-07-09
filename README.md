@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0678-valid-parenthesis-string) |
 | [0981-time-based-key-value-store](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0981-time-based-key-value-store) |
 | [1143-longest-common-subsequence](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/1143-longest-common-subsequence) |
 ## Divide and Conquer
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0860-lemonade-change) |
 ## Stack
 |  |
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0155-min-stack) |
+| [0678-valid-parenthesis-string](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0853-car-fleet) |
 ## Monotonic Stack
