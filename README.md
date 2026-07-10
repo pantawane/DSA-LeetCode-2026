@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0057-insert-interval) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0063-unique-paths-ii) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0347-top-k-frequent-elements) |
