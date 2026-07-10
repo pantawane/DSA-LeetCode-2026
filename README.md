@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/1046-last-stone-weight) |
 | [1584-min-cost-to-connect-all-points](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/1584-min-cost-to-connect-all-points) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/1851-minimum-interval-to-include-each-query) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0621-task-scheduler) |
 | [0853-car-fleet](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0973-k-closest-points-to-origin) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/1851-minimum-interval-to-include-each-query) |
 ## Sliding Window
 |  |
 | ------- |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/1046-last-stone-weight) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/1851-minimum-interval-to-include-each-query) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0981-time-based-key-value-store) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/1851-minimum-interval-to-include-each-query) |
 ## Linked List
 |  |
 | ------- |
@@ -560,4 +564,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0973-k-closest-points-to-origin) |
+## Sweep Line
+|  |
+| ------- |
+| [1851-minimum-interval-to-include-each-query](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/1851-minimum-interval-to-include-each-query) |
 <!---LeetCode Topics End-->
