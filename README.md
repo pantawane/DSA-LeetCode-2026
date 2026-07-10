@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0746-min-cost-climbing-stairs) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
+| [0846-hand-of-straights](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0853-car-fleet) |
 | [0860-lemonade-change](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0875-koko-eating-bananas) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0846-hand-of-straights) |
 | [0981-time-based-key-value-store](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0981-time-based-key-value-store) |
 ## Sorting
 |  |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0973-k-closest-points-to-origin) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/1851-minimum-interval-to-include-each-query) |
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0678-valid-parenthesis-string) |
+| [0846-hand-of-straights](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0860-lemonade-change) |
 ## Stack
 |  |
