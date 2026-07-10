@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0621-task-scheduler) |
+| [0763-partition-labels](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0846-hand-of-straights) |
 | [0981-time-based-key-value-store](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0981-time-based-key-value-store) |
 ## Sorting
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0678-valid-parenthesis-string) |
+| [0763-partition-labels](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0763-partition-labels) |
 | [0981-time-based-key-value-store](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0981-time-based-key-value-store) |
 | [1143-longest-common-subsequence](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/1143-longest-common-subsequence) |
 ## Divide and Conquer
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0647-palindromic-substrings) |
+| [0763-partition-labels](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0763-partition-labels) |
 ## Binary Search
 |  |
 | ------- |
@@ -370,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0678-valid-parenthesis-string) |
+| [0763-partition-labels](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0860-lemonade-change) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/1899-merge-triplets-to-form-target-triplet) |
