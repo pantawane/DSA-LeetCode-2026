@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0057-insert-interval) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0074-search-a-2d-matrix) |
@@ -587,4 +589,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1851-minimum-interval-to-include-each-query](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/1851-minimum-interval-to-include-each-query) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
