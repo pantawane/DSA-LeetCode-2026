@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0338-counting-bits](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0338-counting-bits) |
 | [0354-russian-doll-envelopes](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0354-russian-doll-envelopes) |
 | [0377-combination-sum-iv](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0416-partition-equal-subset-sum) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0338-counting-bits) |
 ## Doubly-Linked List
 |  |
 | ------- |
