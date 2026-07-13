@@ -1,0 +1,56 @@
+class Solution {
+  public:
+    int solve(int currIndex, int prevIndex, vector<int>& arr, vector<vector<int>> &dp){
+        int n = arr.size();
+        
+        if(currIndex == n)
+        return 0;
+        
+        if(dp[currIndex][prevIndex+1] != -1)
+        return dp[currIndex][prevIndex+1];
+        
+        int exclude = solve(currIndex+1, prevIndex, arr, dp);
+        
+        int include = 0;
+        if(prevIndex == -1 || arr[currIndex] > arr[prevIndex]){
+            include = arr[currIndex] + solve(currIndex+1, currIndex, arr, dp);
+        }
+        
+        return dp[currIndex][prevIndex+1] = max(include, exclude);
+    }
+    
+    int solveTab(vector<int>& arr){
+         int n = arr.size();
+        vector<vector<int>> dp(n+1, vector<int> (n+1, 0));
+        
+        vector<int> curr(n+1, 0);
+        vector<int> next(n+1, 0);
+        
+        for(int currIndex = n-1; currIndex >= 0 ; currIndex--){
+            for(int prevIndex = currIndex - 1; prevIndex >= -1; prevIndex--){
+                
+                int exclude = next[prevIndex+1];
+        
+                int include = 0;
+                if(prevIndex == -1 || arr[currIndex] > arr[prevIndex]){
+                    include = arr[currIndex] + next[currIndex+1];
+        }
+        
+            curr[prevIndex+1] = max(include, exclude);
+            }
+            next = curr;
+        }
+        
+        return next[0];
+    }
+    
+    int maxSumIS(vector<int>& arr) {
+        
+        int n = arr.size();
+        
+        //vector<vector<int>> dp(n, vector<int> (n+1, -1));
+        
+        //return solve(0, -1, arr, dp);
+        return solveTab(arr);
+    }
+};
