@@ -1,0 +1,61 @@
+int solve(int index, vector<int>& price, int n, vector<vector<int>> &dp) {
+
+        // Base case
+        if (index == 0)
+            return n * price[0];
+
+        if(dp[index][n] != -1)
+        return dp[index][n];
+
+        // Don't take the current rod length
+        int notTake = solve(index - 1, price, n, dp);
+
+        // Take the current rod length
+        int take = INT_MIN;
+        int rodLength = index + 1;
+
+        if (rodLength <= n) {
+            take = price[index] + solve(index, price, n - rodLength, dp);
+        }
+
+        return dp[index][n] = max(take, notTake);
+    }
+
+int solveTab(vector<int>& price, int n){
+    //int n = price.size();
+    //vector<vector<int>> dp(n, vector<int> (n+1, 0));
+
+    vector<int> prev(n+1, 0);
+    vector<int> curr(n+1, 0);
+
+    //base case analysis
+    for(int len = 0; len <= n; len++){
+        prev[len] = len * price[0];
+    }
+
+    for(int index = 1; index < n; index++){
+        for(int remainRodLength = 0; remainRodLength <= n; remainRodLength++){
+         // Don't take the current rod length
+        int notTake = prev[remainRodLength];
+
+        // Take the current rod length
+        int take = INT_MIN;
+        int pieceLength = index + 1;
+
+        if (pieceLength <= remainRodLength) {
+            take = price[index] + curr[remainRodLength-pieceLength];
+        }
+
+        curr[remainRodLength] = max(take, notTake);
+        }
+        prev = curr;
+    }
+    return prev[n];
+}
+
+int cutRod(vector<int>& price, int n) {
+        //vector<vector<int>> dp(price.size(), vector<int> (n+1, -1));
+        //return solve(n - 1, price, n, dp);
+
+        return solveTab(price, n);
+    }
