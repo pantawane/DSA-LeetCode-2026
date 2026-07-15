@@ -1,0 +1,21 @@
+class Solution {
+  public:
+    long subarrayXor(vector<int> &arr, int k) {
+        // code here
+        unordered_map<int, int> map;
+        map[0] = 1;
+        
+        int cnt = 0;
+        
+        for(int i=0; i<arr.size(); i++){
+            
+            int xr = xr ^ arr[i];
+            //k
+            int x = xr ^ k;
+            cnt += map[x];
+            
+            map[xr]++;
+        }
+        return cnt;
+    }
+};
