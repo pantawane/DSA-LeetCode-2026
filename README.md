@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/1584-min-cost-to-connect-all-points) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/1899-merge-triplets-to-form-target-triplet) |
+| [2965-find-missing-and-repeated-values](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/2965-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0846-hand-of-straights) |
 | [0981-time-based-key-value-store](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0981-time-based-key-value-store) |
+| [2965-find-missing-and-repeated-values](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
 |  |
 | ------- |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0994-rotting-oranges) |
+| [2965-find-missing-and-repeated-values](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/2965-find-missing-and-repeated-values) |
 ## Union-Find
 |  |
 | ------- |
@@ -447,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0202-happy-number) |
 | [0973-k-closest-points-to-origin](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0973-k-closest-points-to-origin) |
+| [2965-find-missing-and-repeated-values](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/2965-find-missing-and-repeated-values) |
 ## Merge Sort
 |  |
 | ------- |
