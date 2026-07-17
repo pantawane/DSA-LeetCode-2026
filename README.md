@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0141-linked-list-cycle) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0160-intersection-of-two-linked-lists) |
