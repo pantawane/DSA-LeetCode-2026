@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0338-counting-bits) |
 | [0354-russian-doll-envelopes](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0354-russian-doll-envelopes) |
 | [0377-combination-sum-iv](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0377-combination-sum-iv) |
+| [0392-is-subsequence](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0494-target-sum) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0392-is-subsequence](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0567-permutation-in-string) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0295-find-median-from-data-stream) |
+| [0392-is-subsequence](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0647-palindromic-substrings) |
