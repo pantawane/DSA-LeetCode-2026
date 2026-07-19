@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0355-design-twitter) |
+| [0383-ransom-note](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0567-permutation-in-string) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0383-ransom-note](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0516-longest-palindromic-subsequence) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0383-ransom-note) |
 | [0621-task-scheduler](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0621-task-scheduler) |
 ## Quickselect
 |  |
