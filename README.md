@@ -463,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0853-car-fleet) |
+| [0901-online-stock-span](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0853-car-fleet) |
+| [0901-online-stock-span](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0901-online-stock-span) |
 ## Design
 |  |
 | ------- |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0355-design-twitter](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0901-online-stock-span](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0901-online-stock-span) |
 | [0981-time-based-key-value-store](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0981-time-based-key-value-store) |
 ## Queue
 |  |
@@ -664,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0901-online-stock-span](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0901-online-stock-span) |
 ## Geometry
 |  |
 | ------- |
