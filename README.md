@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0518-coin-change-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0695-max-area-of-island) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0354-russian-doll-envelopes) |
 | [0493-reverse-pairs](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0981-time-based-key-value-store) |
