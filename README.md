@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0417-pacific-atlantic-water-flow) |
+| [0662-maximum-width-of-binary-tree](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0743-network-delay-time) |
@@ -555,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
@@ -581,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0743-network-delay-time) |
@@ -612,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## String Matching
