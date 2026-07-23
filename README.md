@@ -462,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0678-valid-parenthesis-string) |
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0225-implement-stack-using-queues) |
 | [0295-find-median-from-data-stream](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0355-design-twitter](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0355-design-twitter) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
 |  |
