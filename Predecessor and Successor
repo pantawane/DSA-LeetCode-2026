@@ -1,0 +1,65 @@
+/* BST Node
+class Node {
+   public:
+    int data;
+    Node *left;
+    Node *right;
+
+    Node(int x){
+        data = x;
+        left = NULL;
+        right = NULL;
+    }
+};
+*/
+
+class Solution {
+  public:
+   
+   Node* rightMostLeftSubTree(Node* root){
+       Node* ans = 0;
+       
+       while(root != NULL){
+           ans = root;
+           root = root->right;
+       }
+       return ans;
+   }
+   
+   Node* leftMostRightSubTree(Node* root){
+       Node* ans = 0;
+       
+       while(root != NULL){
+           ans = root;
+           root = root->left;
+       }
+       return ans;
+   }
+   
+    vector<Node*> findPreSuc(Node* root, int key) {
+        Node* curr = root;
+        Node* pred = NULL;
+        Node* succ = NULL;
+        
+        while(curr != NULL){
+            if(key < curr->data){
+                succ = curr;
+                curr = curr->left;
+            }
+            else if(key > curr->data){
+                pred = curr;
+                curr = curr ->right;
+            }
+            else{
+                if(curr->left != NULL){
+                    pred = rightMostLeftSubTree(curr->left);
+                }
+                if(curr->right != NULL){
+                    succ = leftMostRightSubTree(curr->right);
+                }
+                break;
+            }
+        }
+        return {pred, succ};
+    }
+};
