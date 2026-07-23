@@ -70,23 +70,48 @@
 //     }
 // };
 
+// class Solution {
+// public:
+//     int superEggDrop(int k, int n) {
+
+//         vector<vector<long long>> dp(n + 1, vector<long long>(k + 1, 0));
+
+//         int moves = 0;
+
+//         while (dp[moves][k] < n) {
+
+//             moves++;
+
+//             for (int eggs = 1; eggs <= k; eggs++) {
+
+//                 dp[moves][eggs] =
+//                     dp[moves - 1][eggs - 1] +
+//                     dp[moves - 1][eggs] +
+//                     1;
+//             }
+//         }
+
+//         return moves;
+//     }
+// };
+
 class Solution {
 public:
     int superEggDrop(int k, int n) {
 
-        vector<vector<long long>> dp(n + 1, vector<long long>(k + 1, 0));
+        vector<long long> dp(k + 1, 0);
 
         int moves = 0;
 
-        while (dp[moves][k] < n) {
+        while (dp[k] < n) {
 
             moves++;
 
-            for (int eggs = 1; eggs <= k; eggs++) {
+            for (int eggs = k; eggs >= 1; eggs--) {
 
-                dp[moves][eggs] =
-                    dp[moves - 1][eggs - 1] +
-                    dp[moves - 1][eggs] +
+                dp[eggs] =
+                    dp[eggs] +
+                    dp[eggs - 1] +
                     1;
             }
         }
