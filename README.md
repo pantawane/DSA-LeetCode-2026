@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
+| [0887-super-egg-drop](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0887-super-egg-drop) |
 | [1143-longest-common-subsequence](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/1143-longest-common-subsequence) |
 ## Breadth-First Search
 |  |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0875-koko-eating-bananas) |
+| [0887-super-egg-drop](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0887-super-egg-drop) |
 | [0981-time-based-key-value-store](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0981-time-based-key-value-store) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/1851-minimum-interval-to-include-each-query) |
 ## Linked List
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0202-happy-number) |
+| [0887-super-egg-drop](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0887-super-egg-drop) |
 | [0973-k-closest-points-to-origin](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0973-k-closest-points-to-origin) |
 | [2965-find-missing-and-repeated-values](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/2965-find-missing-and-repeated-values) |
 ## Merge Sort
