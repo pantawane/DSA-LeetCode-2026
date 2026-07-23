@@ -1,0 +1,29 @@
+class Solution {
+  public:
+    void InsertSortedStack(stack<int> &st, int num){
+        
+        if(st.empty() || st.top() <= num){
+            st.push(num);
+            return;
+        }
+        
+        int temp = st.top();
+        st.pop();
+        
+        //recursive call
+        InsertSortedStack(st, num);
+        
+        st.push(temp);
+    }
+    void sortStack(stack<int> &st) {
+        
+        if(st.empty()) return;
+        
+        int num = st.top();
+        st.pop();
+        //recursive call
+        sortStack(st);
+        
+        InsertSortedStack(st, num);
+    }
+};
