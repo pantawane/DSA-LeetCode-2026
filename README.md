@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0994-rotting-oranges) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/1046-last-stone-weight) |
 | [1584-min-cost-to-connect-all-points](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/1584-min-cost-to-connect-all-points) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/1851-minimum-interval-to-include-each-query) |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0901-online-stock-span) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -493,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0901-online-stock-span) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Design
 |  |
 | ------- |
@@ -576,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -619,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -645,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## String Matching
 |  |
