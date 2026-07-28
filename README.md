@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0887-super-egg-drop](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0887-super-egg-drop) |
 | [1143-longest-common-subsequence](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0763-partition-labels) |
 | [0981-time-based-key-value-store](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0981-time-based-key-value-store) |
 | [1143-longest-common-subsequence](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Divide and Conquer
 |  |
 | ------- |
