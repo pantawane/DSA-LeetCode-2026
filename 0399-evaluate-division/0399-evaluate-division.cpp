@@ -13,10 +13,10 @@ public:
             return;
         }
 
-        if(ans != -1.0)
-           return;
-
         for(auto &p : adj[src]){
+
+            if(ans != -1.0)
+               return;
             string v = p.first;
             double val = p.second;
 
