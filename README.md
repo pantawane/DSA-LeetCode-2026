@@ -779,4 +779,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0173-binary-search-tree-iterator) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
