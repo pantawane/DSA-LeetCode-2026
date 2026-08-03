@@ -6,7 +6,7 @@ public:
             return 0;
         }
         //size of height
-        int n = height.size() ;
+        int n = height.size()  ;
 
         //create leftMax and rightMax
         vector<int> leftMax(n);
