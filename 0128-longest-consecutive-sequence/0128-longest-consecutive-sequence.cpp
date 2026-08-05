@@ -10,12 +10,11 @@ public:
 
             if (st.find(num - 1) == st.end()) {
 
-                int current = num;
+                //int current = num;
                 int length = 1;
 
-                while (current != INT_MAX &&
-                       st.find(current + 1) != st.end()) {
-                    current++;
+                while (st.find(num + length) != st.end()) {
+                    //current++;
                     length++;
                 }
 
