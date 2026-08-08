@@ -1,31 +1,23 @@
 class Solution {
 public:
     int characterReplacement(string s, int k) {
-        //create freq where we can store count of each character
-        unordered_map<char, int> freq;
+        vector<int> freq(26, 0);
 
-        //initialize variables
-        int i = 0;
-        int maxFreq = 0;
-        int maxLength = 0;
+        int l = 0, r=0, maxFreq=0, maxLen=0;
 
-        //traverse j loop
-        for(int j = 0; j<s.size(); j++){
-            //add each char and freq
-            freq[s[j]]++;
+       for(int r=0; r<s.size(); r++){
 
-            //update maxFreq
-            maxFreq = max(maxFreq, freq[s[j]]);
+            freq[s[r] - 'A']++;
+            maxFreq = max(maxFreq, freq[s[r] - 'A']);
 
-            //condition to check window size is valid or not
-            while((j-i+1) - maxFreq > k){
-               freq[s[i]]--;
-                i++;
+            if(r-l+1 - maxFreq > k){
+                freq[s[l] - 'A']--;
+                l = l+1;
             }
-            //update maxLength
-            maxLength = max(maxLength, j-i+1);
+            else{
+                maxLen = max(maxLen, r-l+1);
+            }
         }
-
-        return maxLength;
+        return maxLen;
     }
 };
