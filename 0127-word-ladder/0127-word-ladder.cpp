@@ -24,7 +24,7 @@ public:
                         q.push({word, steps + 1});
                     }
                 }
-                word[i] = original;
+                word[i] = original; //restore back 
             }
         }
         return 0;
