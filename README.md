@@ -845,4 +845,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0127-word-ladder) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/pantawane/DSA-LeetCode-2026/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
